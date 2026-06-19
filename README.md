@@ -1,1 +1,3 @@
-# amazonsales
+This project explores the Amazon Sales and Customer Reviews dataset to gain insights into consumer behaviour, customer satisfaction, and product performance on one of the world's largest e-commerce platforms. The dataset contains information on product pricing, discount percentages, customer ratings, review counts, and product categories, providing an opportunity to examine how pricing and promotional strategies relate to consumer perceptions. Through exploratory data analysis (EDA), correlation analysis, and hypothesis testing, the project aims to identify patterns between pricing, discounts, customer ratings, and engagement, generating consumer analytics insights that can support pricing, marketing, and customer experience decisions.
+
+Skills used were Python, EDA, Data Cleaning, Visualisations, Correlation, T-test
